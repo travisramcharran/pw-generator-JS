@@ -13,7 +13,8 @@ Then used VSCode to copy and edit the script.js file. I did not edit the provide
 I used my very basic knowledge of JS to create the code, along with help from my tutor and a few learning assistants.
 
 ## Screenshots
-![alt text] (images/pw-g-ss1.png)
+![alt text](images/pw-g-ss1.png)
+![alt text](images/pw-g-ss2.png)
 
 
 

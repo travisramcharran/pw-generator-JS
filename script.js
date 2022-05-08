@@ -48,7 +48,7 @@ function generatePassword() {
     validPasswordCharacters.push(...Symbols);
     console.log(validPasswordCharacters);
   }
-  
+  // for loop to generate the 'randomness'
   for (var i = 0; i < passwordLength; i++) {
   var characterIndex = Math.floor(Math.random() * validPasswordCharacters.length)
   password += validPasswordCharacters[characterIndex];
