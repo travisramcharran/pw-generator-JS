@@ -16,6 +16,10 @@ I used my very basic knowledge of JS to create the code, along with help from my
 ![alt text](images/pw-g-ss1.png)
 ![alt text](images/pw-g-ss2.png)
 
+## Link to Password Generator
+
+https://travisramcharran.github.io/pw-generator-JS/
+
 
 
 ## Credits
